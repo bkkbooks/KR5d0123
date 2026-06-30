@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0123/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鳴鶴餘音叙隨一會稽馮尊師本燕趙書生游汴遇異人得仙學所賦歌曲高潔雄暢最傳者蘇武慢二十篇前十篇道遺世之樂後十篇論修仙之事會稽費無隱獨善歌之聞者有凌雲之思無復留連光景者矣予山居每登高望遠則與無隱歌而和之無隱曰公當爲我更作十篇居兩年得兩篇半殊未快意也昭陽協洽之年嘉平之月長兒冏之官羅浮予與清江趙伯友臨川黄觀我陳可立吴文明平陽李平幼子翁歸泛舟送之水涸轉鄱陽湖上豫章遇風雪十五六日不能達三百里清夜秉燭危坐高唱二三夕得七篇半毎一篇成無隱輒歌之馮尊師天外有聞必能乗風爲我一來聽耶明年舟中又得一篇並無俗念二首後三年仙游山道士彭致中採集古今仙眞歌辭並而刻之與瓢笠高明共一笑之樂也道園道人虞集伯生叙
+  hash: sha256:e1718dca6fe537b8be66083d199b5dcdd92afcaa80fddf02c90bf44224d4112a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0123_HFL_000-001a, image: hfl/0744/0744-004.png}
+metadata:
+  title: 鳴鶴餘音
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 02:05:24.807450'
+  source:
+    repository: kanripo
+    path: KR5d0123/KR5d0123_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:26c817dde7e60be912dc0be995cb4e9e95fe57eed6c55b7d88198e64bc8179bb
