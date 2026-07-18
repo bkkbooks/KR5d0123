@@ -1368,6 +1368,7 @@ markers:
   - {type: indent, offset: 2834, content: 　　　, id: KR5d0123_krp_003-bkkind62}
   - {type: variant, offset: 2834, length: 9, content: 十三武當降筆辛天君, CK-KZ-jye: ''}
   - {type: punctuation, offset: 2836, content: (, id: KR5d0123_krp_003-bkkpn1}
+  - {type: voice, offset: 2836, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2840, content: ), id: KR5d0123_krp_003-bkkpn2}
   - {type: indent, offset: 2840, content: 　　　, id: KR5d0123_krp_003-bkkind63}
   - {type: 'kr:newline', offset: 2843, content: '
@@ -2431,6 +2432,7 @@ markers:
   - {type: variant, offset: 5076, length: 6, content: 十八馮尊師和, CK-KZ-jye: ''}
   - {type: indent, offset: 5078, content: 　　　, id: KR5d0123_krp_003-bkkind102}
   - {type: punctuation, offset: 5081, content: (, id: KR5d0123_krp_003-bkkpn3}
+  - {type: voice, offset: 5081, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 5082, content: ), id: KR5d0123_krp_003-bkkpn4}
   - {type: 'kr:newline', offset: 5082, content: '
 
@@ -2678,4 +2680,4 @@ markers:
 
       ', id: KR5d0123_krp_003-bkkkrnewl439}
   back: []
-hash: sha256:b3f21e990a7f56c5a847e645ebbfadcf84b6ce495e9ac10804f28b5e08b2dead
+hash: sha256:c99c9792c2454c3bf13b950eea76a7576b8eb36fb20f2eb981f59c911bf0b6ea

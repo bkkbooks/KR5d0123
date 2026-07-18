@@ -2043,6 +2043,7 @@ markers:
   - {type: indent, offset: 3344, content: 　　　, id: KR5d0123_krp_007-bkkind100}
   - {type: variant, offset: 3344, length: 4, content: 其二賞雪, CK-KZ-jye: ''}
   - {type: punctuation, offset: 3346, content: (, id: KR5d0123_krp_007-bkkpn1}
+  - {type: voice, offset: 3346, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3348, content: ), id: KR5d0123_krp_007-bkkpn2}
   - {type: 'kr:newline', offset: 3348, content: '
 
@@ -2142,4 +2143,4 @@ markers:
 
       ', id: KR5d0123_krp_007-bkkkrnewl374}
   back: []
-hash: sha256:2dcfbdccb0ed5282e4d55dbaccbb9a5c6ab99ee09ba8f2eb406c4699bf9a7282
+hash: sha256:8fdccb109bec412ac970b9dfb3d779cbf88b0f12408a991150392df0a5f34dd6
